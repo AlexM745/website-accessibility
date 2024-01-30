@@ -1,7 +1,5 @@
 ## Description
-This is a challenge to code refactor to add HTML Semantics and add acccesbilty to improve SEO.
-
-
+This is a challenge given as homework through a bootcamp course. The goal was to do a code refactor to add HTML Semantics and add acccesbilty to optimize the site for search engines.
 
 ## User Story
 
