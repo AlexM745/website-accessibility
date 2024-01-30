@@ -1,3 +1,8 @@
+## Description
+This is a challenge to code refactor to add HTML Semantics and add acccesbilty to improve SEO.
+
+
+
 ## User Story
 
 ```
