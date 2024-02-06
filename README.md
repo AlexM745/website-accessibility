@@ -1,6 +1,12 @@
 ## Description
 This is a challenge given as homework through a bootcamp course. The goal was to do a code refactor to add HTML Semantics and add acccesbilty to optimize the site for search engines.
 
+# Website
+
+https://alexm745.github.io/website-accessibility/
+
+# Outcome
+![alt text](./Assets/images/website-accessibility-mock-up.png)
 ## User Story
 
 ```
